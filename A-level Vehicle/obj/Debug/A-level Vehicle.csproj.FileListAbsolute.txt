@@ -1,0 +1,7 @@
+C:\Users\Valentine\source\repos\A-level Vehicle\A-level Vehicle\obj\Debug\A-level Vehicle.csprojAssemblyReference.cache
+C:\Users\Valentine\source\repos\A-level Vehicle\A-level Vehicle\obj\Debug\A-level Vehicle.csproj.CoreCompileInputs.cache
+C:\Users\Valentine\source\repos\A-level Vehicle\A-level Vehicle\bin\Debug\A-level Vehicle.exe.config
+C:\Users\Valentine\source\repos\A-level Vehicle\A-level Vehicle\bin\Debug\A-level Vehicle.exe
+C:\Users\Valentine\source\repos\A-level Vehicle\A-level Vehicle\bin\Debug\A-level Vehicle.pdb
+C:\Users\Valentine\source\repos\A-level Vehicle\A-level Vehicle\obj\Debug\A-level Vehicle.exe
+C:\Users\Valentine\source\repos\A-level Vehicle\A-level Vehicle\obj\Debug\A-level Vehicle.pdb
